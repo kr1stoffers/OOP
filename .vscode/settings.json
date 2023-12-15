@@ -5,6 +5,7 @@
     "python.formatting.provider": "none",
     "files.associations": {
         "stack": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "xstring": "cpp"
     }
 }
